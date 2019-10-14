@@ -1,0 +1,36 @@
+URL: http://qec4lb.posten.no:9001/T50053_GetLocationUnitFromScanningApp/T50053_GetLocationUnitFromScanningApp
+
+Input: 
+
+{
+  "Header" : {
+    "MessageId" : "1234561234567",
+    "MessageType" : "G30224_GetLocationUnit",
+    "MessageMode" : "REST",
+    "ContextReference" : "T50053_GetUnitLocationFromScanningApp",
+    "Action" : "T50053_GetUnitLocationFromScanningApp.start",
+    "Version" : "1.0",
+    "FirstProcessedTimestamp" : "2008-09-29T03:49:45",
+    "ProcessedTimestamp" : "2014-09-19T01:18:33",
+    "SourceSystemTimestamp" : "2006-08-19T19:27:14+02:00",
+    "TargetSystemTimestamp" : "2009-05-16T14:42:28",
+    "SourceCompany" : "POSTEN",
+    "SourceSystem" : "MEAP",
+    "SourceSystemUser" : "MEAP",
+    "SourceSystemRef" : "T50053_Ref"
+  },
+  "LoggingInformation" : {
+    "LogonName" : "User:0",
+    "SystemCode" : "FOT",
+    "LanguageCode" : "nob",
+    "CompanyCode" : "PO",
+    "CountryCode" : "NO",
+    "OrgUnitId" : "077200",
+    "UserRole" : "MEAPUser",
+    "ProcessName" : "GetUnitLocation",
+    "SubProcessVersion" : "1.0",
+    "InterfaceVersion" : "1.0",
+    "InvocationTime" : "2019-08-24T18:00:05.67925+02:00",
+    "MessageId" : "1234561234567"
+  }
+}

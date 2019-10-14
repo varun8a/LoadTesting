@@ -1,0 +1,38 @@
+{    
+    "Header":
+    {"Header":
+        {
+            "MessageId":"80cd8bf3-6ffe-4fa0-9b74-b28a821bc79",
+            "MessageType":"G30213_GetLegalCodeCombinations",
+            "Version":"1.0",
+            "FirstProcessedTimestamp":"2018-09-05T10:54:37",
+            "ProcessedTimestamp":"2018-09-05T10:54:37",
+            "SourceSystemTimestamp":"2018-09-05T10:54:37.398+02:00",
+            "SourceCompany":"POS",
+            "SourceSystem":"SCANIT",
+            "SourceSystemUser":"SCANIT SERVER",
+            "SourceSystemRef":"SourceSystemRef_1"
+        },
+            "Body":
+            {
+            "GetLegalCodeCombinationsRequest":
+            {
+                "LoggingInformation":
+                {
+                    "LogonName":"SCANIT SERVER",
+                    "SystemCode":"SCANIT",
+                    "LanguageCode":"nob",
+                    "CompanyCode":"POS",
+                    "CountryCode":"NO",
+                    "OrgUnitId":"101278",
+                    "UserRole":"",
+                    "ProcessName":"ECONNECT_BATCH",
+                    "SubProcessVersion":"1",
+                    "InterfaceVersion":"ve_1.0",
+                    "InvocationTime":"2018-09-05T10:54:37.398+02:00",
+                    "MessageId":"80cd8bf3-6ffe-4fa0-9b74-b28a821bc79"
+                }
+            }
+        }
+    }
+    }

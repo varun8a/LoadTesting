@@ -1,0 +1,77 @@
+{
+  "GetUnitDetailsRequest": {
+    "UnitNumber": "102601",
+    "UserId": "rahul.ravindran",
+    "SystemCode": "DR-EXPR",
+    "LanguageCode": "EN",
+    "CompanyCode": "POS",
+    "CountryCode": "NO"
+  },
+  "LoggingInformation": {
+    "LogonName": "rahul.ravindran",
+    "SystemCode": "DR-EXPR",
+    "LanguageCode": "EN",
+    "CompanyCode": "POS",
+    "CountryCode": "NO",
+    "OrgUnitId": "102601",
+    "UserRole": "Driver2Nordic",
+    "ProcessName": "InventoryList",
+    "SubProcessName": "InventoryList",
+    "SubProcessVersion": "1.0",
+    "InterfaceVersion": "1.0",
+    "InvocationTime": "2019-08-08T12:09:36.726Z",
+    "MessageId": "string"
+  }
+}
+
+{
+  "ResponseInformation" : {
+    "ProcedureName" : "LAJA0220",
+    "EnvironmentCode" : "DB2T",
+    "ReturnStatus" : "00",
+    "ReturnStatusText" : "0",
+    "SQLCode" : "0",
+    "SQLState" : "00000"
+  },
+  "UnitDetail" : [ {
+    "ConsignmentNumber" : "370438100746336456",
+    "CountryCode" : "SE",
+    "EventPostalCode" : "114",
+    "ReturnDate" : "2019-08-22",
+    "EventDate" : "2019-08-08",
+    "EventCode" : "Q",
+    "RecipientName" : "SASHI",
+    "SenderName" : "ONEMED SVERIGE AB",
+    "Weight" : "0",
+    "Length" : "0",
+    "Breadth" : "0",
+    "Height" : "0",
+    "TextCode" : "01",
+    "EmailAddress" : null,
+    "UnitName" : "Logistikk i D.nett",
+    "Address" : "1500 SENTRUM",
+    "TerminalPostalCode" : "0001",
+    "CityName" : "OSLO",
+    "ShelfLocation" : "G 001001"
+  }, {
+    "ConsignmentNumber" : "370438100746336258",
+    "CountryCode" : "NO",
+    "EventPostalCode" : "0050",
+    "ReturnDate" : "9999-12-31",
+    "EventDate" : "2019-08-06",
+    "EventCode" : "Q",
+    "RecipientName" : "shashi",
+    "SenderName" : "Posten Norge AS",
+    "Weight" : "0",
+    "Length" : "0",
+    "Breadth" : "0",
+    "Height" : "0",
+    "TextCode" : "01",
+    "EmailAddress" : null,
+    "UnitName" : "Logistikk i D.nett",
+    "Address" : "1500 SENTRUM",
+    "TerminalPostalCode" : "0001",
+    "CityName" : "OSLO",
+    "ShelfLocation" : "G 001001"
+  } ]
+}

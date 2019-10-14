@@ -1,0 +1,215 @@
+{
+  "UserInformation": {
+    "UserLogonId": "alexandermk1",
+    "FirstName": "Alexander",
+    "LastName": "Kristensen",
+    "UserOrgUnitId": "108224",
+    "PhoneNumber": "41729610",
+    "CompanyCode": null,
+    "TMS_Affiliation": null
+  },
+  "EventInformation": {
+    "HDHEvent": false,
+    "HDHEventSpecified": true,
+    "EventCode": "2",
+    "CauseCode": null,
+    "ActionCode": null,
+    "DamageCode": null,
+    "EventTime": "2019-08-20T09:01:16",
+    "UtcTime": "2019-08-20T07:01:16",
+    "TimeDiff": "02:00:00",
+    "UtcTimeSpecified": true,
+    "EventStatus": null,
+    "EventComment": null,
+    "EventCoordinateX": "8.90334125",
+    "EventCoordinateY": "55.52313802",
+    "EventCoordinatesystem": "WGS84",
+    "EventTemperatureSpecified": false,
+    "TemperatureZone": null,
+    "TemperatureUnit": 0,
+    "PostalCode": null,
+    "CountryCode": null,
+    "Consignment": [
+      {
+        "EventType": 1,
+        "CustomerNumber": null,
+        "ConsignmentNumber": "73400300063687409",
+        "MassRegistration": false,
+        "ConsignmentItemsHandled": 1,
+        "ConsignmentItemsHandledSpecified": true,
+        "WeightSpecified": false,
+        "WeightUnitSpecified": false,
+        "VolumeSpecified": false,
+        "VolumeUnitSpecified": false,
+        "OrderNumber": null,
+        "ProductCategory": null,
+        "ConsignmentComment": null,
+        "Pictures": null,
+        "ConsignmentItem": [
+          {
+            "ConsignmentItemNumber": "373400306522767287",
+            "PackageType": null,
+            "WeightSpecified": false,
+            "WeightUnitSpecified": false,
+            "HeightSpecified": false,
+            "LengthSpecified": false,
+            "WidthSpecified": false,
+            "HLWUnitSpecified": false,
+            "ConsignmentItemComment": "",
+            "Pictures": null
+          }
+        ]
+      },
+      {
+        "EventType": 1,
+        "CustomerNumber": null,
+        "ConsignmentNumber": "73400300063605496",
+        "MassRegistration": false,
+        "ConsignmentItemsHandled": 1,
+        "ConsignmentItemsHandledSpecified": true,
+        "WeightSpecified": false,
+        "WeightUnitSpecified": false,
+        "VolumeSpecified": false,
+        "VolumeUnitSpecified": false,
+        "OrderNumber": null,
+        "ProductCategory": null,
+        "ConsignmentComment": null,
+        "Pictures": null,
+        "ConsignmentItem": [
+          {
+            "ConsignmentItemNumber": "373400306521725172",
+            "PackageType": null,
+            "WeightSpecified": false,
+            "WeightUnitSpecified": false,
+            "HeightSpecified": false,
+            "LengthSpecified": false,
+            "WidthSpecified": false,
+            "HLWUnitSpecified": false,
+            "ConsignmentItemComment": "",
+            "Pictures": null
+          }
+        ]
+      },
+      {
+        "EventType": 1,
+        "CustomerNumber": null,
+        "ConsignmentNumber": "70300492825285371",
+        "MassRegistration": false,
+        "ConsignmentItemsHandled": 1,
+        "ConsignmentItemsHandledSpecified": true,
+        "WeightSpecified": false,
+        "WeightUnitSpecified": false,
+        "VolumeSpecified": false,
+        "VolumeUnitSpecified": false,
+        "OrderNumber": null,
+        "ProductCategory": null,
+        "ConsignmentComment": null,
+        "Pictures": null,
+        "ConsignmentItem": [
+          {
+            "ConsignmentItemNumber": "373400014621549849",
+            "PackageType": null,
+            "WeightSpecified": false,
+            "WeightUnitSpecified": false,
+            "HeightSpecified": false,
+            "LengthSpecified": false,
+            "WidthSpecified": false,
+            "HLWUnitSpecified": false,
+            "ConsignmentItemComment": "",
+            "Pictures": null
+          }
+        ]
+      },
+      {
+        "EventType": 1,
+        "CustomerNumber": null,
+        "ConsignmentNumber": "70726203510864474",
+        "MassRegistration": false,
+        "ConsignmentItemsHandled": 1,
+        "ConsignmentItemsHandledSpecified": true,
+        "WeightSpecified": false,
+        "WeightUnitSpecified": false,
+        "VolumeSpecified": false,
+        "VolumeUnitSpecified": false,
+        "OrderNumber": null,
+        "ProductCategory": null,
+        "ConsignmentComment": null,
+        "Pictures": null,
+        "ConsignmentItem": [
+          {
+            "ConsignmentItemNumber": "370726203510864482",
+            "PackageType": null,
+            "WeightSpecified": false,
+            "WeightUnitSpecified": false,
+            "HeightSpecified": false,
+            "LengthSpecified": false,
+            "WidthSpecified": false,
+            "HLWUnitSpecified": false,
+            "ConsignmentItemComment": "",
+            "Pictures": null
+          }
+        ]
+      },
+      {
+        "EventType": 1,
+        "CustomerNumber": null,
+        "ConsignmentNumber": "70722150242675851",
+        "MassRegistration": false,
+        "ConsignmentItemsHandled": 1,
+        "ConsignmentItemsHandledSpecified": true,
+        "WeightSpecified": false,
+        "WeightUnitSpecified": false,
+        "VolumeSpecified": false,
+        "VolumeUnitSpecified": false,
+        "OrderNumber": null,
+        "ProductCategory": null,
+        "ConsignmentComment": null,
+        "Pictures": null,
+        "ConsignmentItem": [
+          {
+            "ConsignmentItemNumber": "CT936877602NO",
+            "PackageType": null,
+            "WeightSpecified": false,
+            "WeightUnitSpecified": false,
+            "HeightSpecified": false,
+            "LengthSpecified": false,
+            "WidthSpecified": false,
+            "HLWUnitSpecified": false,
+            "ConsignmentItemComment": "",
+            "Pictures": null
+          }
+        ]
+      }
+    ],
+    "AdditionalTime": "0001-01-01T00:00:00",
+    "TimestampCode": null,
+    "Signatures": {
+      "SignatureId": "644ea8c3-190b-4852-8775-a83fa2cefc2b",
+      "Signature": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDACgcHiMeGSgjISMtKygwPGRBPDc3PHtYXUlkkYCZlo+AjIqgtObDoKrarYqMyP/L2u71////m8H////6/+b9//j/2wBDASstLTw1PHZBQXb4pYyl+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj/wAARCACQASgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QANBABAAIBAwEFBgQFBQAAAAAAAAECEQMSITETQVGh0SIyYXGBsUKRweEEIzNz0lNig5KT/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmt4m1q99esKRem6YtHF69J/T5NpeLxOOJicTHhIKAAAAAAAAAAAAAAAAAAAAAAAAAAAARq1vauKak0nxiIlYDz7tSlMXvttH47xmPLHm6Z1cx7NLR3zumPLH6uiJ0q9aTNJ/2+nQGdpPtbtO9Yjv4nP5HbacRWbXiu7pFvZmfpJM6lc5rF4593iflifVva0ziZ2znGLcZn4eILEdlp5taKRFrdbRGJn6s7LFNtL3r8c5nzyDoi9Zid9YzaIxMeMeBFbVrjtJtPjaI/TCYrr551NPH9ufUF0vW9d1ZzCnO2nM+1E4v4xxlE6upTjUpSOPem2Kz5cA7jlu1+7S05/5J/wATdr/6en/6T/iDqIidTvpWPlb9mzumOJiJ+MZBQ5bdfP8AU08f259VWra1cdpNZ8axH65BYiNOdu22pe3xnifLDOw09u21d8eF5m33Bs6unE2jdEzXrFeZ/KDfafd056ZibTiPXybe9NOsbpiI7o8flCI36sZnNKT3fin0+/yBk21LW2xNc4xMV52z8/2dNOtq0iL3m9o62mMZbWsVjFYiI+DQAAAAAAAAAAAAAAAAAAAAR2VY9zNMRiNs4iPp0ZjVr0tW0RHETGJmfn+zoAjfMe9p2iIjMzHMevkRraczWN0Ra3MVtxP5Ss6gDn2GnFdta7Imc+xO37N2TuiY1LREfh4x9sgdlWOa5pPM+zxz446SzGrWOLVvxxFuJmfjMejYjViZzalo7oiuPPMlbamJm9Kx4RW2fvEAb7ROLac4xmbRiY9fJnbaezfa2yvjeJr9yupe04nRvX4zNceUn82Yn3KTnjrbjyBVb1vGaWi0eMTltrVrjdaIzOIzKLaW/MXta0T3dMflyR/D6MdNKn/WATb+IrExHSZzEbp28/XnyZ/O1ZjE7K8T05+XP7O8RERiAHPS0KaXMZm2MTe05mfq6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/2Q==",
+      "RecipientName": "shop",
+      "SignatureTime": "2019-08-20T09:01:16.871583+02:00"
+    },
+    "RecipientId": null,
+    "IdentificationDocumentType": null,
+    "ShelfLocation": null,
+    "OrgUnitIdDeliveredTo": "736300",
+    "EventCodeFromUserProcess": ""
+  },
+  "LocationInformation": {
+    "EventOrgUnitId": "108224",
+    "EventPostalCode": null,
+    "EventCountryCode": "DK",
+    "EventCompanyCode": "PND",
+    "LocationId": null
+  },
+  "CaptureEquipment": {
+    "CaptureEquipmentId": "3909016385",
+    "CaptureEquipmentType": "APP"
+  },
+  "EventSystemCode": "DR-EXPR",
+  "OperationInformation": {
+    "TripId": "",
+    "ExternalTripId": null,
+	"PlanId": "",        
+	"PhysicalLoadCarrier": "11111",
+	"OperationOriginSystem": "",          "PowerUnitId": "11111",          "RouteId": "PD0030"        },        "LoggingInformation": {          "TimeFromClient": "2019-08-20T13:17:48.000",          "ProcessName": "DeliveredOtherLoc",          "SubProcessName": "DeliveredOtherLoc",          "SubProcessVersion": "0.3.3"        },        "TMSAffiliationId": "NO_TMS"      }    

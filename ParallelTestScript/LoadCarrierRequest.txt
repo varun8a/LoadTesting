@@ -1,0 +1,14 @@
+
+
+
+
+{
+  "Message": "{\r\n  \"UserInformation\": {\r\n    \"UserLogonId\": \"101278\",\r\n    \"FirstName\": \"101278\",\r\n    \"LastName\": \" \",\r\n    \"UserOrgUnitId\": \"101278\",\r\n    \"PhoneNumber\": \"\",\r\n    \"CompanyCode\": \"POS\",\r\n    \"TMS_Affiliation\": \"NO_TMS\"\r\n  },\r\n  \"LocationInformation\": {\r\n    \"EventOrgUnitId\": \"101278\",\r\n    \"EventPostalCode\": \"7300\",\r\n    \"EventCountryCode\": \"DK\",\r\n    \"EventCompanyCode\": \"POS\",\r\n    \"LocationId\": null\r\n  },\r\n  \"CaptureEquipment\": {\r\n    \"CaptureEquipmentId\": null,\r\n    \"CaptureEquipmentType\": \"APP\"\r\n  },\r\n  \"LoggingInformation\": {\r\n    \"TimeFromClient\": \"2019-02-06T13:10:59\",\r\n    \"TimeToIntegrationServer\": \"0001-01-01T00:00:00\",\r\n    \"TimeDeliveredToInterface\": \"0001-01-01T00:00:00\",\r\n    \"ConnectionCode\": null,\r\n    \"ConnectionState\": null,\r\n    \"ProcessName\": null,\r\n    \"SubProcessName\": null,\r\n    \"SubProcessVersion\": \"0.0.1\",\r\n    \"Version\": null,\r\n    \"Guid\": \"20455491-c4a8-4dc2-a705-69b7e9e796ee\"\r\n  },\r\n  \"EventInformation\": {\r\n    \"LogicalLoadCarrierId\": \"0703004312101400133296\",\r\n    \"LogicalLoadCarrierIdParent\": \"RBT-GODS\",\r\n    \"EventType\": \"LB3\",\r\n    \"Timestamp\": \"2019-02-06T13:10:59\",\r\n    \"UTCTimestamp\": \"2019-02-06T12:10:59\",\r\n    \"TimeDiff\": \"01:00:00\",\r\n    \"TripId\": null,\r\n    \"StopId\": null,\r\n    \"TripIdAmphora\": null,\r\n    \"RouteIdAmphora\": \"1219\",\r\n    \"PowerUnitId\": \"LYF788\",\r\n    \"LoadCarrierId\": \"LYF788\"\r\n  }\r\n}",
+   "Eventcode": "LB3",
+  "MessageGuid": "",
+  "RetryCount": 0,
+  "StatusTypeId": 2,
+  "MessageTypeID": 2,
+  "UserName": "325342"  
+   
+}

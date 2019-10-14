@@ -1,0 +1,26 @@
+{
+  "ConnectLoadCarriersRequest": {
+    "UserLogonId": "rahul.ravindran",
+    "TMS_Affiliation": "NO_TMS",
+    "OrgUnitId": "102601",
+    "LogicalId": "0703004312101400137829",
+    "PhysicalId": "testing",
+    "NameOfType": "",
+    "AppName": "DR-EXPR"
+  },
+  "LoggingInformation": {
+    "LogonName": "rahul.ravindran",
+    "SystemCode": "DR-EXPR",
+    "LanguageCode": "EN",
+    "CompanyCode": "POS",
+    "CountryCode": "NO",
+    "OrgUnitId": "102601",
+    "UserRole": "Driver2Nordic",
+    "ProcessName": "ConnectLoadCarrier",
+    "SubProcessName": "ConnectLoadCarrier",
+    "SubProcessVersion": "1.0",
+    "InterfaceVersion": "1.0",
+    "InvocationTime": "2019-08-16T13:52:06.836Z",
+    "MessageId": "test"
+  }
+}

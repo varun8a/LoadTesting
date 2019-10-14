@@ -1,0 +1,11 @@
+D:\ParallelTestScript\ParallelTestScript\bin\Debug\netcoreapp2.1\ParallelTestScript.deps.json
+D:\ParallelTestScript\ParallelTestScript\bin\Debug\netcoreapp2.1\ParallelTestScript.runtimeconfig.json
+D:\ParallelTestScript\ParallelTestScript\bin\Debug\netcoreapp2.1\ParallelTestScript.runtimeconfig.dev.json
+D:\ParallelTestScript\ParallelTestScript\bin\Debug\netcoreapp2.1\ParallelTestScript.dll
+D:\ParallelTestScript\ParallelTestScript\bin\Debug\netcoreapp2.1\ParallelTestScript.pdb
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.csprojAssemblyReference.cache
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.csproj.CoreCompileInputs.cache
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.AssemblyInfoInputs.cache
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.AssemblyInfo.cs
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.dll
+D:\ParallelTestScript\ParallelTestScript\obj\Debug\netcoreapp2.1\ParallelTestScript.pdb
